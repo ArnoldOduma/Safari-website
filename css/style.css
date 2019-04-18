@@ -25,6 +25,7 @@ header{
   padding-bottom: 150px;
   padding-top: 20px;
   font-family: 'Cute Font', cursive;
+  font-display: swap;
   letter-spacing: 5px;
 }
 header img{
